@@ -1,0 +1,14 @@
+
+.btn{
+    margin: 5rem auto;
+    display: block;
+    background: blue;
+    border: 2px solid black;
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
+}
+
+body{
+    text-align: center;
+    text-transform: capitalize;
+}

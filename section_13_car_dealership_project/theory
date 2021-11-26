@@ -1,0 +1,73 @@
+// reveal pattern
+// life immediately invoked function expression
+
+// function declaration
+function sayHi(){
+    console.log('hello');
+
+}
+//invoke the function
+//sayHi();
+
+// function expression
+var person = function(name){
+    console.log(`Hello I'm ${name}`);    
+};
+// call the function
+// person('john');
+
+// immediately invoked function
+// does not need to be invoked separately
+// variables not in global scope
+(function (){
+    // private variable not in the global scope
+    var name = 'john';
+    console.log(name);
+    console.log('hello');
+})();
+
+console.log(name);
+
+// our modules
+var Module = (function (){
+
+    // private variable
+    var counter = 0;
+
+    function addCount(){
+        counter++;
+    }
+    function show(){
+        console.log(counter);
+    }
+
+    return{
+        addCount: addCount,
+        show: show
+    }
+})();
+
+// Module.addCount();
+// Module.addCount();
+// Module.addCount();
+// Module.show()
+
+// console.log(counter);
+
+const ES6Module = (() => {
+
+    // private variable
+    var counter = 0;
+
+    function addCount(){
+        counter++;
+    }
+    function show(){
+        console.log(counter);
+    }
+
+    return{
+        addCount,
+        show
+    }
+})();

@@ -1,0 +1,14 @@
+
+:root{
+    --mainPink: #f46197;
+    --mainGreen: #84bc9c;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    color: var(--mainPink);
+}
+
+h1{
+    color: var(--mainGreen);
+}

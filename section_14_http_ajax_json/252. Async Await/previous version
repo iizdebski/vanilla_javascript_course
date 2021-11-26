@@ -1,0 +1,55 @@
+// XHR
+const btn = document.querySelector(".btn");
+
+btn.addEventListener("click", function () {
+    getData(showData);
+});
+function getData(cb){
+    const ajax = new XMLHttpRequest();
+    const url = "https://randomuser.me/api/";
+
+    ajax.open("GET", url, true);
+
+    ajax.onload = function(){
+        if(this.status === 200){
+            cb(this.responseText);
+        }else{
+            //this.onerror()
+            console.log(this.statusText);
+        }
+    };
+    ajax.onerror = function(){
+        console.log("there was an error");
+    };
+    ajax.send();
+}
+
+
+function showData(data){
+    const response = JSON.parse(data);
+
+    const{
+        name:{first},
+        dob: {age}
+    } = response.results[0];
+
+    document.getElementById("name").textContent = first;
+    document.getElementById("age").textContent = age;
+}
+/*
+function externalData(url){
+    // new Promise Object, pass the callback function,
+    return new Promise(function(resolve, reject){
+        if(url.length > 0){
+            resolve("response data");
+        }else{
+            reject("there was an error");
+        }
+    });
+}
+
+externalData("url")
+.then(data => console.log(data))
+.catch(error => console.log(error));
+
+ */
