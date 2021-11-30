@@ -1,4 +1,4 @@
-# vanilla_javascript_course
+# [Vanilla_JavaScript_Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/)
 
 # [Comfy House](https://5cffa19731496a90c3b5ef90--vanilla-js-comfy-house-project.netlify.app/) 
 
