@@ -23,3 +23,13 @@
 <p align = "center">
 <img src="https://github.com/iizdebski/vanilla_javascript_course/blob/main/17_images/car_dealership3.JPG" width="300" height="300"> <img src="https://github.com/iizdebski/vanilla_javascript_course/blob/main/17_images/car_dealership4.JPG" width="300" height="300">
 </p>
+
+# Coffee Shop
+
+<p align = "center">
+<img src="https://github.com/iizdebski/vanilla_javascript_course/blob/main/17_images/coffee_shop1.JPG" width="300" height="300"> <img src="https://github.com/iizdebski/vanilla_javascript_course/blob/main/17_images/coffee_shop2.JPG" width="300" height="300">
+</p>
+
+<p align = "center">
+<img src="https://github.com/iizdebski/vanilla_javascript_course/blob/main/17_images/coffee_shop3.JPG" width="300" height="300"> <img src="https://github.com/iizdebski/vanilla_javascript_course/blob/main/17_images/coffee_shop4.JPG" width="300" height="300">
+</p>
