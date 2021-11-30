@@ -8,5 +8,8 @@
 <img src="https://github.com/iizdebski/vanilla_javascript_course/blob/main/17_images/comfy_house2.JPG" width="300" height="300"> <img src="https://github.com/iizdebski/vanilla_javascript_course/blob/main/17_images/comfy_house3.JPG" width="300" height="300">
 </p>
 
-# <span style="color:blue">Zomato Restaurant</span>
+# Zomato Restaurant
 
+<p align = "center">
+<img src="https://github.com/iizdebski/vanilla_javascript_course/blob/main/17_images/zomato_restaurant1.JPG" width="300" height="300"> <img src="https://github.com/iizdebski/vanilla_javascript_course/blob/main/17_images/zomato_restaurant2.JPG">
+</p>
