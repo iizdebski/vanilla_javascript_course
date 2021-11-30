@@ -37,5 +37,5 @@
 # Budget App
 
 <p align = "center">
-<img src="https://github.com/iizdebski/vanilla_javascript_course/blob/main/17_images/budget1.JPG" width="500" height="300"> <img src="https://github.com/iizdebski/vanilla_javascript_course/blob/main/17_images/budget2.JPG" width="500" height="300">
+<img src="https://github.com/iizdebski/vanilla_javascript_course/blob/main/17_images/budget1.JPG" width="700" height="300"> <img src="https://github.com/iizdebski/vanilla_javascript_course/blob/main/17_images/budget2.JPG" width="700" height="300">
 </p>
