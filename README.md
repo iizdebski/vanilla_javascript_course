@@ -15,3 +15,11 @@
 </p>
 
 # Car Dealership
+
+<p align = "center">
+<img src="https://github.com/iizdebski/vanilla_javascript_course/blob/main/17_images/car_dealership1.JPG" width="300" height="300"> <img src="https://github.com/iizdebski/vanilla_javascript_course/blob/main/17_images/car_dealership2.JPG" width="300" height="300">
+</p>
+
+<p align = "center">
+<img src="https://github.com/iizdebski/vanilla_javascript_course/blob/main/17_images/car_dealership3.JPG" width="300" height="300"> <img src="https://github.com/iizdebski/vanilla_javascript_course/blob/main/17_images/car_dealership4.JPG" width="300" height="300">
+</p>
