@@ -1,3 +1,3 @@
 # vanilla_javascript_course
 
-![VANILLA_JAVASCRIPT_COURSE](/images/nature.jpg =250x250)
+<img src="https://github.com/iizdebski/vanilla_javascript_course/blob/main/17_images/nature.jpg" width="50" height="50">
