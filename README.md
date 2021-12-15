@@ -1,5 +1,15 @@
 # [Vanilla_JavaScript_Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/)
 
+# Course Description
+* **JavaScript Basics**
+* **DOM**
+* **OOP**
+* **Functions**
+* **ES6**
+* **Modules**
+* **Async**
+* **AJAX**
+
 # [Comfy House](https://5cffa19731496a90c3b5ef90--vanilla-js-comfy-house-project.netlify.app/) - https://5cffa19731496a90c3b5ef90--vanilla-js-comfy-house-project.netlify.app/
 
 <p align = "center">
