@@ -1,6 +1,5 @@
 # [Vanilla_JavaScript_Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/)
 
-# Course Description
 * **JavaScript Basics**
 * **DOM**
 * **OOP**
